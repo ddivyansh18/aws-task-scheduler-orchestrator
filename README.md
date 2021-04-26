@@ -1,9 +1,5 @@
 # AWS Task Scheduler and Orchestrator
 
-<h4> Demo Video <a href="https://drive.google.com/drive/folders/1GhOObPULaDgg2N-oRXnj3ccb06TFEgQZ?usp=sharing">Link</a></h4>
-
-<h4> Web App <a href="https://aws-t4-frontend.vercel.app/">Link</a></h4>
-
 <h2> Requirements: </h2>
 <ol>
   <li>NodeJs</li>
