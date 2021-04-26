@@ -20,7 +20,7 @@
   <li>Setup PostgreSQL and update credentials in main.py</li>
   <li>To run Backend - <code> cd backend && python main.py</code></li>
   <li>To run Frontend - <code> cd frontend && npm install && npm start</code></li>
-  <li>Can got <a href="http://localhost:3000">http://localhost:3000</a> to start using the app</li>
+  <li>Open <a href="http://localhost:3000">http://localhost:3000</a> to start using the app</li>
 </ol>
 
 <h2> Screenshots: </h2>
